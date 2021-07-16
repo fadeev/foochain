@@ -20,6 +20,8 @@ github.com/CosmWasm/wasmd v0.16.0 h1:37b/cKIq37z1YFCVKl4PrBjRt2np5y2kE9LinhK+lQI
 github.com/CosmWasm/wasmd v0.16.0/go.mod h1:EmtH0lN3ZlHyU5Sn1VzbZ9guf0BMBSPifzodBcK6d2E=
 github.com/CosmWasm/wasmvm v0.14.0 h1:oceacwdwD9d9GzqElOrB8Qu1topx4+zM47VEqnJ/9Jo=
 github.com/CosmWasm/wasmvm v0.14.0/go.mod h1:Id107qllDJyJjVQQsKMOy2YYF98sqPJ2t+jX1QES40A=
+github.com/CosmWasm/wasmvm v0.15.1 h1:5hPBqPzHzVGtISJy/Mr89PbNIe+a3Q6qaFbnOFu/m64=
+github.com/CosmWasm/wasmvm v0.15.1/go.mod h1:Id107qllDJyJjVQQsKMOy2YYF98sqPJ2t+jX1QES40A=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/zstd v1.4.1/go.mod h1:1jcaCB/ufaK+sKp1NBhlGmpz41jOoPQ35bpF36t7BBo=
 github.com/DataDog/zstd v1.4.5 h1:EndNeuB0l9syBZhut0wns3gV1hL8zX8LIu6ZiVHWLIQ=

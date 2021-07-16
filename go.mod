@@ -3,6 +3,7 @@ module github.com/cosmonaut/foochain
 go 1.16
 
 require (
+	github.com/CosmWasm/wasmvm v0.15.1 // indirect
 	github.com/cosmos/cosmos-sdk v0.42.6
 	github.com/gogo/protobuf v1.3.3
 	github.com/google/go-cmp v0.5.6 // indirect
